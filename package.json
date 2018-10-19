@@ -1,0 +1,24 @@
+{
+  "name": "nodestash",
+  "version": "1.0.0",
+  "description": "Extract data from app with this tool and then compute % change",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latimercaleb/Node-Stash.git"
+  },
+  "author": "Caleb Latimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/latimercaleb/Node-Stash/issues"
+  },
+  "homepage": "https://github.com/latimercaleb/Node-Stash#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
